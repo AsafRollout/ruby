@@ -4,3 +4,4 @@ flag: def.newVariant
 availableValues:
   - C
   - B
+  - A
