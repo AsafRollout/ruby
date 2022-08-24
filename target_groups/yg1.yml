@@ -1,0 +1,6 @@
+type: target-group
+name: yg1
+conditions:
+  - operator: ne
+    property: rox.language
+    operand: '54'
